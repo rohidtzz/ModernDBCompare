@@ -1,0 +1,23 @@
+{
+  "name": "rohidtzz/modern-db-compare",
+  "type": "project",
+  "description": "ModernDBCompare is a modern web-based database comparison tool with Bootstrap 5 interface supporting MySQL, PostgreSQL, MS SQL and Oracle",
+  "keywords": ["database", "schema", "compare", "comparison", "mysql", "postgresql", "mssql", "oracle", "bootstrap", "modern-ui"],
+  "homepage": "https://github.com/rohidtzz/ModernDBCompare",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Rohidtzz",
+      "role": "Developer"
+    },
+    {
+      "name": "Levsha Dmitry (Original Author)",
+      "email": "info@compalex.net",
+      "homepage": "http://compalex.net",
+      "role": "Original Developer"
+    }
+  ],
+  "require": {
+    "php": ">=7.4.0"
+  }
+}
