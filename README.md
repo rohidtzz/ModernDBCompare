@@ -199,11 +199,11 @@ Side-by-side comparison with color-coded differences and interactive sample data
 
 ## 🙏 Credits
 
-This project is an enhanced fork of [compalex](https://github.com/dkarpuk/compalex) with significant UI/UX improvements and new features.
+This project is an enhanced fork of [compalex](https://github.com/dlevsha/compalex) with significant UI/UX improvements and new features.
 
 ### Original Project
-- **Author**: Dmitriy Karpuk (dkarpuk)
-- **Repository**: https://github.com/dkarpuk/compalex
+- **Author**: Dmitriy Levsha (dlevsha)
+- **Repository**: https://github.com/dlevsha/compalex
 - **License**: MIT
 
 ### Enhancements Added
@@ -243,7 +243,7 @@ THE SOFTWARE.
 
 ### Original License Notice
 
-This project is based on compalex by Dmitriy Karpuk (dkarpuk).
+This project is based on compalex by Dmitriy Levsha (dlevsha).
 Original project copyright (c) 2021, Levsha Dmitry.
 
 ## 🤝 Contributing
